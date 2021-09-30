@@ -1,5 +1,5 @@
 {
-    "startTasks": [
+    "setupTasks": [
         {
             "name": "Install Dependencies",
             "command": "yarn"
