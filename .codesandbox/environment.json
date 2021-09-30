@@ -1,0 +1,12 @@
+{
+    "startTasks": [
+        {
+            "name": "Install Dependencies",
+            "command": "yarn"
+        },
+        {
+            "name": "Start Dev Server",
+            "command": "yarn start"
+        }
+    ]
+}
