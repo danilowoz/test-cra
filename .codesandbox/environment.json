@@ -1,9 +1,6 @@
 {
     "setupTasks": [
-        {
-            "name": "Random Command",
-            "command": "ls"
-        },
+        "ls",
         {
             "name": "Run Node",
             "command": "node"
@@ -17,7 +14,6 @@
             "command": "yarn build"
         },
         {
-            "name": "Run Test",
             "command": "yarn test"
         },
         {
