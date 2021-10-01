@@ -5,8 +5,20 @@
             "command": "yarn"
         },
         {
-            "name": "Start Dev Server",
-            "command": "yarn start"
+            "name": "Build Project",
+            "command": "yarn build"
+        },
+        {
+            "name": "Run Test",
+            "command": "yarn test"
+        },
+        {
+            "name": "Random Command",
+            "command": "ls"
+        },
+        {
+            "name": "Random Command 2",
+            "command": "ps"
         }
     ]
 }
