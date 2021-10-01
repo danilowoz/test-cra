@@ -5,12 +5,12 @@
             "command": "ls"
         },
         {
-            "name": "Build Project",
-            "command": "yarn build"
-        },
-        {
             "name": "Install Dependencies",
             "command": "yarn"
+        },
+        {
+            "name": "Build Project",
+            "command": "yarn build"
         },
         {
             "name": "Run Test",
