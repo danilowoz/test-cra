@@ -3,7 +3,7 @@
         {
             "name": "Random Command",
             "command": "ls"
-        },
+        }
         {
             "name": "Run Node",
             "command": "node"
