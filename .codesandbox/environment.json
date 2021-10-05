@@ -1,6 +1,7 @@
 {
     "setupTasks": [
         "ls",
+        "asdfg",
         {
             "name": "Run Node",
             "command": "node"
