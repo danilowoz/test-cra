@@ -1,25 +1,5 @@
 {
     "setupTasks": [
-        "ls",
-        "asddf",
-        {
-            "name": "Run Node",
-            "command": "node"
-        },
-        {
-            "name": "Install Dependencies",
-            "command": "yarn"
-        },
-        {
-            "name": "Build Project",
-            "command": "yarn build"
-        },
-        {
-            "command": "yarn test"
-        },
-        {
-            "name": "Random Command 2",
-            "command": "ps"
-        }
+        "ls"
     ]
 }
