@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-asdfa
 
 function App() {
   return (
