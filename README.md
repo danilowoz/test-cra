@@ -4,7 +4,7 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 ## Available Scripts
 
-In the project directory, you can run:
+asdfas In the project directory, you can run:
 
 ### `yarn start`
 
