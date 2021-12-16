@@ -9,7 +9,7 @@ function App() {
         <p>
           Change the <code>src/App.js</code> to reload.
         </p>
-        <a className="App-linking" target="_blank" rel="noopener noreferrer">
+        <a className="Ap-linking" target="_blank" rel="noopener noreferrer">
           Learn React
         </a>
       </header>
