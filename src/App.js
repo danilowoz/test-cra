@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 import logo from './logo.svg';
 import './Apps';
+=======
+import logo from "./logo.svg";
+import "./App.css";
+>>>>>>> Stashed changes
 
 function App() {
   return (
@@ -7,13 +12,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code>  to reload.
+          Edit <code>src/App.js</code> to reload.
         </p>
-        <a
-          className="App-linking"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a className="App-linking" target="_blank" rel="noopener noreferrer">
           Learn by doing
         </a>
       </header>
