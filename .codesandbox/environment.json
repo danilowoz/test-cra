@@ -1,10 +1,1 @@
-{
-    "setupTasks": [
-        "ls",
-        "node",
-        "yarn",
-        "yarn build",
-        "yarn test",
-        "ps"
-    ]
-}
+{}
