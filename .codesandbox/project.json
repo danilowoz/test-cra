@@ -12,11 +12,14 @@
         },
         "build": {
             "name": "Build",
-            "command": "yarn build"
+            "command": "yarn build",
+            "runAtStart": true
         },
         "test": {
             "name": "Run Tests",
-            "command": "yarn test"
+            "command": "yarn test",
+            "runAtStart": true
         }
-    }
+    },
+    "setupTasks": ["yarn"]
 }
