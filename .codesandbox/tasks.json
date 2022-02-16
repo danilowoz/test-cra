@@ -1,0 +1,30 @@
+{
+  "setupTasks": [
+    {
+      "name": "yarn",
+      "command": "yarn"
+    }
+  ],
+  "portTasks": {
+    "3000": {
+      "name": "Application",
+      "command": "yarn start"
+    }
+  },
+  "tasks": {
+    "setup": {
+      "name": "Install Dependencies",
+      "command": "yarn"
+    },
+    "build": {
+      "name": "Build",
+      "command": "yarn build",
+      "runAtStart": true
+    },
+    "test": {
+      "name": "Run Tests",
+      "command": "yarn test",
+      "runAtStart": true
+    }
+  }
+}
