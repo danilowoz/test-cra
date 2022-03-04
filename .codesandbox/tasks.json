@@ -16,11 +16,6 @@
     "test": {
       "name": "Run Tests",
       "command": "yarn test"
-    },
-    "start": {
-      "name": "Application",
-      "command": "yarn start",
-      "runAtStart": true
     }
   }
 }
