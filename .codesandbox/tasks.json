@@ -7,7 +7,7 @@
     },
     "ls",
     "node",
-    "yarn test"
+    "yarn tes"
   ],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
@@ -18,7 +18,7 @@
     },
     "test": {
       "name": "Run Tests",
-      "command": "yarn tes"
+      "command": "yarn test"
     }
   }
 }
