@@ -2,6 +2,20 @@
 
 This project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+```
+npm run start
+```
+
+```norun
+This block should not be runnable
+```
+
+Open `src/App.js` to start coding.
+
+How about a [relative link](/src/App.js)?
+
+This is just a `code block`.
+
 ## Available Scripts
 
 In the project directory, you can run:
